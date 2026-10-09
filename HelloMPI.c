@@ -1,5 +1,5 @@
-#include <cstdio>
-#include <cstdlib>
+#include <stdio.h>    // was <cstdio>
+#include <stdlib.h>   // was <cstdlib>
 #include <mpi.h>
 int main(void)
 {
